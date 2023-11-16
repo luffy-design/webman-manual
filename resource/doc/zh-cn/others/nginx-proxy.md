@@ -7,7 +7,7 @@
  - nginx代理ssl实现https，更加简单高效
  - 能够严格过滤外网一些不合法请求
 
-## nginx代理示例
+## nginx代理示例1
 ```
 upstream webman {
     server 127.0.0.1:8787;
